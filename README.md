@@ -57,36 +57,6 @@ A full-stack personal finance management application that helps users track inco
 
 ---
 
-## Project Structure
-
-backend/
-├── main.py
-├── models/
-├── routes/
-├── auth/
-├── database/
-
-frontend/
-├── src/
-│ ├── pages/
-│ │ ├── Home.js
-│ │ ├── AuthChoice.js
-│ │ ├── Login.js
-│ │ ├── Register.js
-│ │ ├── Dashboard.js
-│ │ ├── AddTransaction.js
-│ │ ├── EditTransaction.js
-│ │ ├── DeleteTransaction.js
-│ │ ├── ViewTransactions.js
-│ │ └── Analysis.js
-│ ├── components/
-│ │ └── SidebarLayout.js
-│ ├── App.js
-│ └── index.js
-
-
----
-
 ## Installation and Setup
 
 ### Clone Repository
@@ -101,3 +71,31 @@ uvicorn main:app --reload
 ### Backend runs at:
 
 http://127.0.0.1:8000
+
+### Learning Outcomes
+
+This project demonstrates experience in:
+
+Full-stack web application development
+REST API design using FastAPI
+JWT authentication and authorization
+React routing and state management
+CRUD operations
+UI component-based architecture
+Frontend and backend integration
+
+-----------
+### Future Enhancements
+Data visualization using charts
+Monthly budget tracking system
+Export reports to PDF or Excel
+Improved mobile responsiveness
+Cloud deployment
+
+----------
+Author
+
+Navya
+
+GitHub: https://github.com/23wh1a12b6
+Project: smart Budget Tracker
