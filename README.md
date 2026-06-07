@@ -71,7 +71,7 @@ uvicorn main:app --reload
 ### Backend runs at:
 
 http://127.0.0.1:8000
-
+---------------
 ### Learning Outcomes
 
 This project demonstrates experience in:
