@@ -57,45 +57,29 @@ A full-stack personal finance management application that helps users track inco
 
 ---
 
-## Installation and Setup
-
-### Clone Repository
-```bash
-git clone https://github.com/23wh1a12b6/smart-budget-tracker.git
-----
-### Backend Setup (FastAPI)
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-
-### Backend runs at:
-
-http://127.0.0.1:8000
----------------
 ### Learning Outcomes
+Full-stack web application development using React and FastAPI
+Designing and building RESTful APIs
+Implementing JWT-based authentication and authorization
+Managing state and routing in React applications
+Performing CRUD operations (Create, Read, Update, Delete)
+Structuring a scalable frontend-backend architecture
+Integrating frontend with backend APIs using Axios
+Building responsive and user-friendly UI components
+Understanding database interaction for financial data management
 
-This project demonstrates experience in:
+---
 
-Full-stack web application development
-REST API design using FastAPI
-JWT authentication and authorization
-React routing and state management
-CRUD operations
-UI component-based architecture
-Frontend and backend integration
 
------------
 ### Future Enhancements
-Data visualization using charts
-Monthly budget tracking system
-Export reports to PDF or Excel
-Improved mobile responsiveness
-Cloud deployment
+Add data visualization using charts (income vs expense graphs)
+Implement monthly and yearly budget tracking system
+Add export functionality for reports (PDF/Excel)
+Improve mobile responsiveness and UI optimization
+Add category-wise transaction analysis
+Deploy application on cloud platforms (AWS / Vercel / Render)
+Add email notifications and reminders for budgets
+Multi-currency support for global usage
 
-----------
-Author
+---
 
-Navya
-
-GitHub: https://github.com/23wh1a12b6
-Project: smart Budget Tracker
